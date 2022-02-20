@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/Scoreboard-API.svg)](LICENSE)
+
 # Scoreboard-API
 A simple Scoreboard API using reflection
 
