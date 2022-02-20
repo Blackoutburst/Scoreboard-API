@@ -1,9 +1,10 @@
 [![License](https://img.shields.io/github/license/Blackoutburst/Scoreboard-API.svg)](LICENSE)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/800f3fd08d934191be1ddc1b7e2f69ff)](https://www.codacy.com/gh/Blackoutburst/Scoreboard-API/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Blackoutburst/Scoreboard-API&amp;utm_campaign=Badge_Grade)
 
 # Scoreboard-API
 A simple Scoreboard API using reflection
 
-# Usage
+## Usage
 
 ```java
 NMSBoard board = new NMSBoard(bp.getPlayer(), "§aTest §bScoreboard");
