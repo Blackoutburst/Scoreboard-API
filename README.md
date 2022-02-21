@@ -7,7 +7,7 @@ A simple Scoreboard API using reflection
 ## Usage
 
 ```java
-NMSBoard board = new NMSBoard(bp.getPlayer(), "§aTest §bScoreboard");
+NMSBoard board = new NMSBoard(player, "§aTest §bScoreboard");
 board.set(player, 15, "§6§m--------------------");
 board.set(player, 14, "§eHello world!");
 board.set(player, 13, "");
