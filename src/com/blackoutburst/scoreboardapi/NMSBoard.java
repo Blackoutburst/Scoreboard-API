@@ -1,6 +1,5 @@
 package com.blackoutburst.scoreboardapi;
 
-import com.blackoutburst.fireblast.nms.*;
 import org.bukkit.entity.Player;
 
 public class NMSBoard {
